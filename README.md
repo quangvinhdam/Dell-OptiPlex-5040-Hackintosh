@@ -1,4 +1,4 @@
-<h1 align="center">🍏 Hackintosh on Dell OptiPlex 5040</h1>
+<h1 align="center">Hackintosh on Dell OptiPlex 5040</h1>
 
 <p align="center">
   Bringing macOS to life on a stable Skylake desktop machine using OpenCore.
